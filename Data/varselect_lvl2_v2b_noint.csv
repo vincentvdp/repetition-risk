@@ -1,0 +1,50 @@
+,varname,coeff_freq,coeff_val_avg,label
+0,s4bq5_1,50.0,-0.112601773157,Can perform a written calculation
+1,s4bq4_1,50.0,-0.184241725119,Can write a letter or a simple note
+2,s4bq3_1,50.0,-0.318463737728,Can read a letter or a simple note
+3,district_34,50.0,0.0677516491352,District
+4,schooltype_1,49.0,-0.0364779224685,public-1 or subsidized-3
+5,age_y,49.0,-0.0469138155665,age
+6,paidtuition,48.0,-0.0258114678375,paid any tuition
+7,id1_4,48.0,-0.0269458180006,Province
+8,district_35,47.0,0.0169345503559,District
+9,s6fq1_0,46.0,-0.0170763571593,Fetched water last 7 days
+10,hd_edulvl,45.0,-0.0411751918966,head of hh education level - 1 to 8 blocks
+11,s4aq15_5,41.0,0.0186524714346,Cause of not attending school
+12,id1_2,37.0,0.0161003125268,Province
+13,s6aq6_0,36.0,-0.00504297372236,Worked in HH member non-farm business for no pay
+14,hd_edulvl_pow2,35.0,-0.02583264978,head of hh education level - 1 to 8 blocks
+15,district_33,35.0,-0.012779594334,District
+16,s4aq15_10,32.0,0.0111128153311,Cause of not attending school
+17,ontrack,28.0,0.0132218595291,pupil is on track
+18,p5,27.0,0.0169063071805,in primary 5
+19,district_41,25.0,-0.012255437516,District
+20,s6aq8_6,23.0,0.0108915188279,Main reason for not working (last 12 months)
+21,district_25,21.0,0.00947201211823,District
+22,s6fq4,11.0,0.00515313904463,Number of hours foraging for wood last 7 days
+23,p2,11.0,-0.00821362677847,in primary 2
+24,urb,10.0,-0.00610772729153,urban area
+25,s4bq5_0,10.0,0.00980181944532,Can perform a written calculation
+26,district_28,10.0,0.00790580442731,District
+27,s4aq15_2,9.0,0.00498331424351,Cause of not attending school
+28,hd_mobile,9.0,-0.0124626709491,head of hh hass mobile phone
+29,p6,8.0,-0.00725159337508,in primary 6
+30,female,8.0,-0.00644369733082,female
+31,district_27,6.0,0.00694222251933,District
+32,s6fq3_0,5.0,-0.0160703992316,Foraged for firewood last 7 days
+33,paid_contrib,4.0,-0.00434548702379,paind any contributions
+34,district_51,4.0,-0.00567922506797,District
+35,s4aq10_1,3.0,-0.00304229622186,School has separate toilet facilities for boys and girls
+36,hd_canread,3.0,-0.00559399636867,head of hh  can read simple note
+37,district_31,3.0,0.00523682265416,District
+38,s6fq1_1,2.0,0.00973214844182,Fetched water last 7 days
+39,s6eq6_3,2.0,-0.00921071193455,Reason not workin in the last 7 days
+40,s4bq8_1,2.0,-0.000443721547581,Has a mobile telephone
+41,schooltype_3,1.0,0.00455723484812,public-1 or subsidized-3
+42,s6fq11_1,1.0,-0.00846425953545,Did other household chores last 7 days
+43,s6aq5_0,1.0,-0.00454110937208,Non-farm business for cash/profit (last 12 months)
+44,s4bq6_3,1.0,0.000681961058227,Feels confident about using a computer
+45,s4bq3_0,1.0,0.0190336658884,Can read a letter or a simple note
+46,s4aq15_6,1.0,0.00424197164261,Cause of not attending school
+47,paid_trnsbrd,1.0,-0.00016358127152,paid any board or trnsport
+48,district_11,1.0,-0.00346679972444,District

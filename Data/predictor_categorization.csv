@@ -1,0 +1,149 @@
+varname,school_vs_ind,individual,remove_drop,teach_comm_prof,coll_cat,catvar_to_encode,baddum_to_encode,label
+age_y,Individual,1,0,Teacher,1,0,0,age
+district,School ,0,0,Teacher,1,1,0,District
+female,Individual,1,0,Teacher,1,0,0,female
+hd_canread,Individual,1,0,Community,2,0,0,head of hh  can read simple note
+hd_disable,Individual,1,0,Community,2,0,0,head of hh is disabled
+hd_ed_lopr,Individual,1,0,Community,2,0,0,head of hh has some lower primary education
+hd_ed_lose,Individual,1,0,Community,2,0,0,head of hh has some lower secondary education
+hd_ed_none,Individual,1,0,Community,2,0,0,head of hh has no education
+hd_ed_popr,Individual,1,0,Community,2,0,0,head of hh has some post primary education
+hd_ed_uni,Individual,1,0,Community,2,0,0,head of hh has some university education
+hd_ed_uppr,Individual,1,0,Community,2,0,0,head of hh has some upper primary education
+hd_ed_upse,Individual,1,0,Community,2,0,0,head of hh has some upper secondary education
+hd_edulvl,Individual,1,0,Community,2,0,0,head of hh education level - 1 to 8 blocks
+hd_female,Individual,1,0,Community,2,0,0,head of hh is female
+hd_mobile,Individual,1,0,Teacher,1,0,0,head of hh hass mobile phone
+hd_unemp_long,Individual,1,0,Community,2,0,0,head of hh is long term unemployed
+hd_unemp_shrt,Individual,1,0,Community,2,0,0,head of hh is short term unemployed
+hhsize,Individual,1,0,Teacher,1,0,0,household size
+id1,School ,0,0,Teacher,1,1,0,Province
+kigali,School ,0,0,Teacher,1,0,0,kigali
+ln_cons1,Individual,1,0,Professional,3,0,0,aggregate consumption (log)
+ln_cons1_ae,Individual,1,0,Professional,3,0,0,aggregate consumption / ae (log)
+ln_consumption,Individual,1,0,Professional,3,0,0,consumption (log)
+ln_costsboard,Individual,1,1,Professional,3,0,0,Costs for Boarding (log)
+ln_costsboardtransp,Individual,1,1,Professional,3,0,0,Costs for Boarding or transport (log)
+ln_costscontributions,Individual,1,1,Professional,3,0,0,Costs of contributions (log)
+ln_costsmaterial,Individual,1,1,Professional,3,0,0,Costs of materials (log)
+ln_costsnontuition,Individual,1,1,Professional,3,0,0,Costs of all non-tuition expenses (log)
+ln_costsother,Individual,1,1,Professional,3,0,0,costs of other school expenses (log)
+ln_coststotal,Individual,1,1,Professional,3,0,0,costs of total school expenditure (log)
+ln_coststotal,Individual,1,1,Professional,3,0,0,Costs of schooling (log)
+ln_coststransport,Individual,1,1,Professional,3,0,0,costs of transportation (log)
+ln_coststutition,Individual,1,1,Professional,3,0,0,costs of tuition (log)
+ln_costsuniform,Individual,1,1,Professional,3,0,0,costs of unifrom (log)
+ln_exp_edu_ae,Individual,1,1,Professional,3,0,0,log of per adult equiv. education expenses
+ln_exp1,Individual,1,1,Professional,3,0,0,Education expenses (log)
+ln_exp10,Individual,1,0,Professional,3,0,0,Provision of house (log)
+ln_exp11,Individual,1,0,Professional,3,0,0,Other benefits (log)
+ln_exp12,Individual,1,0,Professional,3,0,0,Annual non-food expenditures (log)
+ln_exp12_wh,Individual,1,0,Professional,3,0,0,Annual non-food expenditures (without health) (log)
+ln_exp13,Individual,1,0,Professional,3,0,0,Monthly non-food expenditures (log)
+ln_exp14_1,Individual,1,0,Professional,3,0,0,Frequent non-food expenditures withour filter question 0 (log)
+ln_exp14_2,Individual,1,0,Professional,3,0,0,Frequent non-food expenditures withour filter questions (log)
+ln_exp15_1,Individual,1,0,Professional,3,0,0,Food expenditures without filter question 0 (log)
+ln_exp15_2,Individual,1,0,Professional,3,0,0,Food expenditures without filter question (log)
+ln_exp16_1,Individual,1,0,Professional,3,0,0,Own food consumption without filter question 0 (log)
+ln_exp16_2,Individual,1,0,Professional,3,0,0,Own food consumption without filter question (log)
+ln_exp16a_1,Individual,1,0,Professional,3,0,0,Own non-food consumption with filter question 0 (log)
+ln_exp16a_2,Individual,1,0,Professional,3,0,0,Own non-food consumption without filter question (log)
+ln_exp17,Individual,1,0,Professional,3,0,0,Use value of durable goods (log)
+ln_exp18,Individual,1,0,Professional,3,0,0,Received transfers (log)
+ln_exp4,Individual,1,0,Professional,3,0,0,Imputed rents (log)
+ln_exp5,Individual,1,0,Professional,3,0,0,Actual rents (log)
+ln_exp6,Individual,1,0,Professional,3,0,0,Maintenance costs (log)
+ln_exp7,Individual,1,0,Professional,3,0,0,Water expenses (log)
+ln_exp8,Individual,1,0,Professional,3,0,0,Electricity expenses (log)
+ln_exp9,Individual,1,0,Professional,3,0,0,In-kind payments  (log)
+ln_sol_jan,Individual,1,0,Professional,3,0,0,aggregate consumption / ae Jan14 = 100 (log)
+lncons_ae,Individual,1,0,Professional,3,0,0,ln aggregate consumption / ae Jan14 = 100
+ontrack,Individual,1,0,Teacher,1,0,0,pupil is on track
+p1,Individual,1,0,Teacher,1,0,0,in primary 1
+p2,Individual,1,0,Teacher,1,0,0,in primary 2
+p3,Individual,1,0,Teacher,1,0,0,in primary 3
+p4,Individual,1,0,Teacher,1,0,0,in primary 4
+p5,Individual,1,0,Teacher,1,0,0,in primary 5
+p6,Individual,1,0,Teacher,1,0,0,in primary 6
+paid_contrib,Individual,1,1,Community,2,0,0,paind any contributions
+paid_material,Individual,1,1,Community,2,0,0,paid any contribution
+paid_nontuition,Individual,1,1,Community,2,0,0,paid any non-tuition costs
+paid_trnsbrd,Individual,1,1,Community,2,0,0,paid any board or trnsport
+paid_uniform,Individual,1,1,Community,2,0,0,paid any uniform costs
+paidtuition,Individual,1,1,Teacher,1,0,0,paid any tuition
+pov,Individual,1,0,Professional,3,0,0,Total Poverty
+pov_ext,Individual,1,0,Professional,3,0,0,Extreme poverty
+poverty,Individual,1,0,Professional,3,0,0,poverty category
+prim_grade,Individual,1,0,Teacher,1,0,0,which grade: 1 to 6
+quintile,Individual,1,0,Professional,3,1,0,income quintile
+s1q10,Individual,1,0,Community,2,1,0,Lived in another HH during absence
+s1q12,Individual,1,0,Community,2,1,0,Reason for absence
+s1q13,Individual,1,0,Teacher,1,1,0,Father still alive
+s1q14,Individual,1,0,Teacher,1,1,0,Mother still alive
+s1q2,Individual,1,0,Teacher,1,1,0,Relation with head of household
+s1q7,Individual,1,0,Community,2,0,0,Absent in the last 12 months
+s1q8,Individual,1,0,Community,2,1,0,Length of absence in last 12 months
+s1q9,Individual,1,0,Community,2,1,0,Reason for absence
+s2q2,Individual,1,0,Community,2,0,0,Always lived in the district
+s2q3m,Individual,1,0,Community,2,0,0,Time since last move (months)
+s2q3y,Individual,1,0,Community,2,0,0,Time since last move (years)
+s2q5,Individual,1,0,Community,2,1,0,Kind of place lived prior to arrival
+s2q6,Individual,1,0,Community,2,0,0,Duration of stay in the previous location (years)
+s2q7,Individual,1,0,Community,2,1,0,Primary reason for moving
+s2q8,Individual,1,0,Community,2,1,0,Moved alone or with other HH members
+s3q2,Individual,1,0,Teacher,1,1,0,Suffers from a major disability
+s3q3,Individual,1,0,Community,2,1,0,Main health insurance
+s3q4,Individual,1,0,Teacher,1,0,0,Suffered from health problem in the last 4 weeks
+s3q5,Individual,1,0,Community,2,1,0,Nature of the health problem
+s3q6,Individual,1,0,Community,2,0,1,Medical consultation over the last 4 weeks 
+s3q7,Individual,1,0,Community,2,1,0,Reason for medical consultation
+s4aq10,School ,0,1,Teacher,1,0,1,School has separate toilet facilities for boys and girls
+s4aq12,Individual,1,1,Community,2,1,0,Who paid school expenses over the last 12 months
+s4aq13,Individual,1,1,Teacher,1,0,1,Missed any day at school in the last 7 days
+s4aq14,Individual,1,1,Teacher,1,0,0,Number of school days missed in the last y days
+s4aq15,Individual,1,1,Community,2,1,0,Cause of not attending school
+s4aq9,Individual,1,1,Community,2,1,0,Problem experiences at school
+s4bq3,Individual,1,0,Teacher,1,0,1,Can read a letter or a simple note
+s4bq4,Individual,1,0,Teacher,1,0,1,Can write a letter or a simple note
+s4bq5,Individual,1,0,Teacher,1,0,1,Can perform a written calculation
+s4bq6,Individual,1,0,Teacher,1,1,0,Feels confident about using a computer
+s4bq7,Individual,1,1,Community,2,0,1,Attended literacy course
+s4bq8,Individual,1,0,Teacher,1,0,1,Has a mobile telephone
+s6aq2,Individual,1,1,Community,2,0,1,Work on own/ HH farm (last 12 months)
+s6aq3,Individual,1,1,Community,2,0,1,"Agricultural Work for salary, wages, in-kind (last 12 months)"
+s6aq4,Individual,1,1,Community,2,0,1,Non-farm work for salary or wages (last 12 months)
+s6aq5,Individual,1,1,Community,2,0,1,Non-farm business for cash/profit (last 12 months)
+s6aq6,Individual,1,1,Community,2,0,1,Worked in HH member non-farm business for no pay
+s6aq7a,Individual,1,1,Community,2,0,0,Number of jobs over past 12 months
+s6aq7b,Individual,1,1,Community,2,0,0,Number of jobs over past 7 days
+s6aq8,Individual,1,1,Community,2,1,0,Main reason for not working (last 12 months)
+s6eq1,Individual,1,1,Community,2,0,1,Worked for one hour in the last 7 dyas in S6A activities
+s6eq10,Individual,1,1,Community,2,0,0,Desire to work at the present
+s6eq13,Individual,1,1,Teacher,1,0,1,Ever worked before
+s6eq17,Individual,1,1,Community,2,0,1,Wanted additional work
+s6eq2,Individual,1,1,Community,2,0,1,Usually works but absent last week
+s6eq3,Individual,1,1,Community,2,1,0,Reason for absence from work: last 7 days
+s6eq4,Individual,1,1,Community,2,0,0,Usual hours worked in job; 7 day period
+s6eq5,Individual,1,1,Community,2,1,0,Worked in other activities in the last 7 days
+s6eq6,Individual,1,1,Community,2,1,0,Reason not workin in the last 7 days
+s6eq7,Individual,1,1,Community,2,0,1,Able to start work if the opportunity existed
+s6eq8,Individual,1,1,Community,2,0,0,Seeking a job during the last 4 weeks
+s6fq1,Individual,1,1,Teacher,1,0,1,Fetched water last 7 days
+s6fq10,Individual,1,1,Community,2,0,0,Number of hours cooking last 7 days
+s6fq11,Individual,1,1,Teacher,1,0,1,Did other household chores last 7 days
+s6fq12,Individual,1,1,Community,2,0,0,Number of hourse spent on other household chores last 7 days
+s6fq2,Individual,1,1,Community,2,0,0,Number of hours fetching water last 7 days
+s6fq3,Individual,1,1,Teacher,1,0,1,Foraged for firewood last 7 days
+s6fq4,Individual,1,1,Community,2,0,0,Number of hours foraging for wood last 7 days
+s6fq5,Individual,1,1,Teacher,1,0,1,searched fodder last 7 days
+s6fq6,Individual,1,1,Community,2,0,0,Number of hours searching fodder last 7 days
+s6fq7,Individual,1,1,Teacher,1,0,1,Went to the market last 7 days
+s6fq8,Individual,1,1,Community,2,0,0,Number of hours going to market last 7 days
+s6fq9,Individual,1,1,Teacher,1,0,1,Cooked for household last 7 days
+schooltype,School ,0,1,Teacher,1,1,0,public-1 or subsidized-3
+totalcosts,Individual,1,1,Professional,3,0,0,costs of all school expenses
+ubudehe_1,Individual,1,0,Community,2,0,0,ubudehe category 1
+ubudehe_12,Individual,1,0,Community,2,0,0,ubudehe category 1 or 2
+ubudehe_123,Individual,1,0,Community,2,0,0,ubudehe category 1 or 2 or 3
+upperprim,individual,1,0,Teacher,1,0,0,Pupil is in upper primary dummy
+urb,School ,0,0,Teacher,1,0,0,urban area
